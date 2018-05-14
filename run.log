@@ -1,0 +1,2 @@
+2018-05-14 23:32:44,015 GitInformation.py[line:47] ERROR <('Connection aborted.', error(54, 'Connection reset by peer'))>
+2018-05-14 23:32:51,116 GitInformation.py[line:47] ERROR <HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=20)>
